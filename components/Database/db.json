@@ -1,0 +1,73 @@
+{
+    "events": [
+      {
+        "id": "1",
+        "name": "Summer Music Festival",
+        "month": "JUL",
+        "day": "15",
+        "time": "7:00 PM",
+        "location": "Central Park, New York",
+        "price": "$50",
+        "category": "MUSIC",
+        "imageUrl": "https://example.com/event-image.jpg",
+        "description": "Join us for a night of amazing music under the stars...",
+        "organizer": {
+          "name": "NYC Events Co.",
+          "info": "Premier event organizers in New York",
+          "imageUrl": "https://example.com/organizer-image.jpg"
+        }
+      },
+      {
+        "id": "2",
+        "name": "Summer Music Festival",
+        "month": "JUL",
+        "day": "15",
+        "time": "7:00 PM",
+        "location": "Central Park, New York",
+        "price": "$50",
+        "category": "MUSIC",
+        "imageUrl": "https://example.com/event-image.jpg",
+        "description": "Join us for a night of amazing music under the stars...",
+        "organizer": {
+          "name": "NYC Events Co.",
+          "info": "Premier event organizers in New York",
+          "imageUrl": "https://example.com/organizer-image.jpg"
+        }
+      },
+      {
+        "id": "3",
+        "name": "Summer Music Festival",
+        "month": "JULYYYYY",
+        "day": "15",
+        "time": "7:00 PM",
+        "location": "Central Park, New York",
+        "price": "$50",
+        "category": "MUSIC",
+        "imageUrl": "https://example.com/event-image.jpg",
+        "description": "Join us for a night of amazing music under the stars...",
+        "organizer": {
+          "name": "NYC Events Co.",
+          "info": "Premier event organizers in New York",
+          "imageUrl": "https://example.com/organizer-image.jpg"
+        }
+      },
+      {
+        "id": "4",
+        "name": "Summer Music Festival",
+        "month": "JUL",
+        "day": "15",
+        "time": "7:00 PM",
+        "location": "Central Park, New York",
+        "price": "$50",
+        "category": "MUSIC",
+        "imageUrl": "https://example.com/event-image.jpg",
+        "description": "Join us for a night of amazing music under the stars...",
+        "organizer": {
+          "name": "NYC Events Co.",
+          "info": "Premier event organizers in New York",
+          "imageUrl": "https://example.com/organizer-image.jpg"
+        }
+      }
+    ]
+  }
+  

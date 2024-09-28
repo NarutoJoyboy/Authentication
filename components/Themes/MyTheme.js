@@ -6,19 +6,20 @@ export const MyTheme ={
         secondary:'black',
         tertiary:'grey',
         buttons:'blue',
-        background:'#FDFDFD'
+        background:'#FDFDFD',
+        text:'black'
 
     }
 }
 
 
-export const DarkTheme ={
-    dark:true,
-    colors:{
-        primary:"black",
-        secondary:'white',
-        tertiary:"grey",
-        buttons:'green',
-
-    }
-}
+// export const DarkTheme ={
+//     dark:true,
+//     colors:{
+//         primary:"black",
+//         secondary:'white',
+//         tertiary:"grey",
+//         buttons:'green',
+//         text:'black'
+//     }
+// }
