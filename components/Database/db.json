@@ -1,73 +1,259 @@
 {
-    "events": [
-      {
-        "id": "1",
-        "name": "Summer Music Festival",
-        "month": "JUL",
-        "day": "15",
-        "time": "7:00 PM",
-        "location": "Central Park, New York",
-        "price": "$50",
-        "category": "MUSIC",
-        "imageUrl": "https://example.com/event-image.jpg",
-        "description": "Join us for a night of amazing music under the stars...",
-        "organizer": {
-          "name": "NYC Events Co.",
-          "info": "Premier event organizers in New York",
-          "imageUrl": "https://example.com/organizer-image.jpg"
-        }
-      },
-      {
-        "id": "2",
-        "name": "Summer Music Festival",
-        "month": "JUL",
-        "day": "15",
-        "time": "7:00 PM",
-        "location": "Central Park, New York",
-        "price": "$50",
-        "category": "MUSIC",
-        "imageUrl": "https://example.com/event-image.jpg",
-        "description": "Join us for a night of amazing music under the stars...",
-        "organizer": {
-          "name": "NYC Events Co.",
-          "info": "Premier event organizers in New York",
-          "imageUrl": "https://example.com/organizer-image.jpg"
-        }
-      },
-      {
-        "id": "3",
-        "name": "Summer Music Festival",
-        "month": "JULYYYYY",
-        "day": "15",
-        "time": "7:00 PM",
-        "location": "Central Park, New York",
-        "price": "$50",
-        "category": "MUSIC",
-        "imageUrl": "https://example.com/event-image.jpg",
-        "description": "Join us for a night of amazing music under the stars...",
-        "organizer": {
-          "name": "NYC Events Co.",
-          "info": "Premier event organizers in New York",
-          "imageUrl": "https://example.com/organizer-image.jpg"
-        }
-      },
-      {
-        "id": "4",
-        "name": "Winter Music Festival",
-        "month": "JUL",
-        "day": "15",
-        "time": "7:00 PM",
-        "location": "Central Park, New York",
-        "price": "$50",
-        "category": "MUSIC",
-        "imageUrl": "https://example.com/event-image.jpg",
-        "description": "Join us for a night of amazing music under the stars...",
-        "organizer": {
-          "name": "NYC Events Co.",
-          "info": "Premier event organizers in New York",
-          "imageUrl": "https://example.com/organizer-image.jpg"
-        }
+  "events": [
+    {
+      "id": "1",
+      "name": "Delhi Music Fest",
+      "month": "SEP",
+      "day": "10",
+      "time": "6:00 PM",
+      "location": "Connaught Place, New Delhi",
+      "price": "$20",
+      "category": "MUSIC",
+      "imageUrl": "https://example.com/delhi-music-fest.jpg",
+      "description": "A vibrant music festival featuring local and international artists.",
+      "organizer": {
+        "name": "Delhi Events Co.",
+        "info": "Leading event organizers in Delhi",
+        "imageUrl": "https://example.com/organizer1.jpg"
       }
-    ]
-  }
-  
+    },
+    {
+      "id": "2",
+      "name": "Bangalore Tech Expo",
+      "month": "OCT",
+      "day": "15",
+      "time": "10:00 AM",
+      "location": "Bangalore International Exhibition Centre, Bangalore",
+      "price": "$50",
+      "category": "TECH",
+      "imageUrl": "https://example.com/bangalore-tech-expo.jpg",
+      "description": "Showcasing the latest technology innovations and startups.",
+      "organizer": {
+        "name": "TechFest Bangalore",
+        "info": "Organizers of tech-focused events in Bangalore",
+        "imageUrl": "https://example.com/organizer2.jpg"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Mumbai Art Festival",
+      "month": "NOV",
+      "day": "20",
+      "time": "4:00 PM",
+      "location": "Kala Ghoda, Mumbai",
+      "price": "$15",
+      "category": "ART",
+      "imageUrl": "https://example.com/mumbai-art-festival.jpg",
+      "description": "Explore the rich art culture of Mumbai with exhibitions and workshops.",
+      "organizer": {
+        "name": "Mumbai Art Collective",
+        "info": "Promoting arts and culture in Mumbai",
+        "imageUrl": "https://example.com/organizer3.jpg"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Chennai Food Festival",
+      "month": "DEC",
+      "day": "5",
+      "time": "12:00 PM",
+      "location": "Chennai Trade Centre, Chennai",
+      "price": "$25",
+      "category": "FOOD",
+      "imageUrl": "https://example.com/chennai-food-festival.jpg",
+      "description": "A feast of flavors featuring the best of South Indian cuisine.",
+      "organizer": {
+        "name": "Chennai Gourmet Events",
+        "info": "Food event specialists in Chennai",
+        "imageUrl": "https://example.com/organizer4.jpg"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Hyderabad Literary Fest",
+      "month": "JAN",
+      "day": "14",
+      "time": "10:00 AM",
+      "location": "Hyderabad International Convention Centre, Hyderabad",
+      "price": "$10",
+      "category": "LITERATURE",
+      "imageUrl": "https://example.com/hyderabad-literary-fest.jpg",
+      "description": "Join renowned authors and poets for a celebration of literature.",
+      "organizer": {
+        "name": "Hyderabad Literary Society",
+        "info": "Promoting literature and reading in Hyderabad",
+        "imageUrl": "https://example.com/organizer5.jpg"
+      }
+    },
+    {
+      "id": "6",
+      "name": "Pune Craft Fair",
+      "month": "FEB",
+      "day": "25",
+      "time": "11:00 AM",
+      "location": "Pune Exhibition Centre, Pune",
+      "price": "$5",
+      "category": "CRAFT",
+      "imageUrl": "https://example.com/pune-craft-fair.jpg",
+      "description": "Discover handmade crafts and local artisans.",
+      "organizer": {
+        "name": "Pune Crafts Association",
+        "info": "Supporting local artisans in Pune",
+        "imageUrl": "https://example.com/organizer6.jpg"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Jaipur Film Festival",
+      "month": "MAR",
+      "day": "8",
+      "time": "5:00 PM",
+      "location": "Rajasthan Patrika, Jaipur",
+      "price": "$30",
+      "category": "FILM",
+      "imageUrl": "https://example.com/jaipur-film-festival.jpg",
+      "description": "Showcasing independent films from around the world.",
+      "organizer": {
+        "name": "Jaipur Film Society",
+        "info": "Promoting cinema in Jaipur",
+        "imageUrl": "https://example.com/organizer7.jpg"
+      }
+    },
+    {
+      "id": "8",
+      "name": "Goa Beach Festival",
+      "month": "APR",
+      "day": "21",
+      "time": "3:00 PM",
+      "location": "Anjuna Beach, Goa",
+      "price": "$15",
+      "category": "MUSIC",
+      "imageUrl": "https://example.com/goa-beach-festival.jpg",
+      "description": "A lively festival celebrating music, dance, and beach culture.",
+      "organizer": {
+        "name": "Goa Events Co.",
+        "info": "Organizers of beach festivals in Goa",
+        "imageUrl": "https://example.com/organizer8.jpg"
+      }
+    },
+    {
+      "id": "9",
+      "name": "Delhi Fashion Week",
+      "month": "MAY",
+      "day": "12",
+      "time": "7:00 PM",
+      "location": "Jawaharlal Nehru Stadium, New Delhi",
+      "price": "$40",
+      "category": "FASHION",
+      "imageUrl": "https://example.com/delhi-fashion-week.jpg",
+      "description": "Experience the latest trends in Indian fashion.",
+      "organizer": {
+        "name": "Delhi Fashion Council",
+        "info": "Promoting fashion in India",
+        "imageUrl": "https://example.com/organizer9.jpg"
+      }
+    },
+    {
+      "id": "10",
+      "name": "Mumbai Marathon",
+      "month": "JUN",
+      "day": "15",
+      "time": "6:00 AM",
+      "location": "Marine Drive, Mumbai",
+      "price": "$25",
+      "category": "SPORTS",
+      "imageUrl": "https://example.com/mumbai-marathon.jpg",
+      "description": "Join thousands of runners in this exciting marathon event.",
+      "organizer": {
+        "name": "Mumbai Sports Association",
+        "info": "Organizers of sporting events in Mumbai",
+        "imageUrl": "https://example.com/organizer10.jpg"
+      }
+    },
+    {
+      "id": "11",
+      "name": "Kolkata Book Fair",
+      "month": "JUL",
+      "day": "20",
+      "time": "10:00 AM",
+      "location": "Central Park, Kolkata",
+      "price": "$10",
+      "category": "LITERATURE",
+      "imageUrl": "https://example.com/kolkata-book-fair.jpg",
+      "description": "The largest book fair in India featuring local and international authors.",
+      "organizer": {
+        "name": "Kolkata Book Association",
+        "info": "Promoting literature in Kolkata",
+        "imageUrl": "https://example.com/organizer11.jpg"
+      }
+    },
+    {
+      "id": "12",
+      "name": "Ahmedabad Food Festival",
+      "month": "AUG",
+      "day": "15",
+      "time": "12:00 PM",
+      "location": "Sabarmati Riverfront, Ahmedabad",
+      "price": "$20",
+      "category": "FOOD",
+      "imageUrl": "https://example.com/ahmedabad-food-festival.jpg",
+      "description": "Explore the culinary delights of Gujarat.",
+      "organizer": {
+        "name": "Ahmedabad Gourmet Society",
+        "info": "Promoting food events in Ahmedabad",
+        "imageUrl": "https://example.com/organizer12.jpg"
+      }
+    },
+    {
+      "id": "13",
+      "name": "Surat Textile Expo",
+      "month": "SEP",
+      "day": "5",
+      "time": "9:00 AM",
+      "location": "Surat International Exhibition & Convention Centre, Surat",
+      "price": "$30",
+      "category": "TEXTILES",
+      "imageUrl": "https://example.com/surat-textile-expo.jpg",
+      "description": "Showcasing the best in textile manufacturing.",
+      "organizer": {
+        "name": "Surat Textile Association",
+        "info": "Leading textile industry events in Surat",
+        "imageUrl": "https://example.com/organizer13.jpg"
+      }
+    },
+    {
+      "id": "14",
+      "name": "Hyderabad Comic Con",
+      "month": "OCT",
+      "day": "10",
+      "time": "11:00 AM",
+      "location": "Hyderabad Convention Centre, Hyderabad",
+      "price": "$25",
+      "category": "COMIC",
+      "imageUrl": "https://example.com/hyderabad-comic-con.jpg",
+      "description": "A celebration of comics, cosplay, and pop culture.",
+      "organizer": {
+        "name": "Hyderabad Comic Society",
+        "info": "Promoting pop culture events in Hyderabad",
+        "imageUrl": "https://example.com/organizer14.jpg"
+      }
+    },
+    {
+      "id": "15",
+      "name": "Goa Carnival",
+      "month": "MAR",
+      "day": "1",
+      "time": "5:00 PM",
+      "location": "Panaji, Goa",
+      "price": "$15",
+      "category": "CARNIVAL",
+      "imageUrl": "https://example.com/goa-carnival.jpg",
+      "description": "Join us for the vibrant and colorful Goa Carnival.",
+      "organizer": {
+        "name": "Goa Carnival Committee",
+        "info": "Organizers of the famous Goa Carnival",
+        "imageUrl": "https://example.com/organizer15.jpg"
+      }
+    }
+  ]
+}
