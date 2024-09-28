@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React, {useState, useEffect} from 'react';
 import {
   View,
   Text,
@@ -10,6 +10,7 @@ import {
   TextInput,
   Alert,
   Modal,
+  BackHandler,
 } from 'react-native';
 import {useTheme} from '@react-navigation/native';
 import Ionicons from 'react-native-vector-icons/Ionicons';
@@ -25,7 +26,7 @@ export default function EventDetailScreen({route, navigation}) {
   const [showBookingForm, setShowBookingForm] = useState(false);
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
-  const [tickets, setTickets] = useState('1');
+  const [tickets, setTickets] = useState('');
 
   const handleBooking = async () => {
     if (!name || !email || !tickets) {
@@ -53,9 +54,9 @@ export default function EventDetailScreen({route, navigation}) {
         `Thank you, ${name}! Your booking for ${tickets} ticket(s) to ${data.name} has been confirmed.`,
         [{text: 'OK', onPress: () => setShowBookingForm(false)}],
       );
-      setName('')
-      setEmail("")
-      setTickets("")
+      setName('');
+      setEmail('');
+      setTickets('');
     } catch (error) {
       console.error('Error saving booking:', error);
       Alert.alert(
@@ -64,6 +65,25 @@ export default function EventDetailScreen({route, navigation}) {
       );
     }
   };
+
+  useEffect(() => {
+    const backAction = () => {
+      if (showBookingForm) {
+        setShowBookingForm(false); // Close the modal
+        return true; // Prevent default back action
+      }
+      return false; // Allow default back action if modal is not open
+    };
+
+    const backHandler = BackHandler.addEventListener(
+      'hardwareBackPress',
+      backAction,
+    );
+
+    return () => {
+      backHandler.remove(); // Cleanup the event listener
+    };
+  }, [showBookingForm]);
 
   return (
     <ScrollView
@@ -141,7 +161,11 @@ export default function EventDetailScreen({route, navigation}) {
           <Text style={styles.bookButtonText}>Book Now</Text>
         </TouchableOpacity>
         {showBookingForm && (
-          <Modal>
+          <Modal
+            transparent={false}
+            animationType="slide"
+            visible={showBookingForm}
+            onRequestClose={() => setShowBookingForm(false)}>
             <View style={styles.bookingForm}>
               <Text style={[styles.sectionTitle, {color: colors.text}]}>
                 Booking Form

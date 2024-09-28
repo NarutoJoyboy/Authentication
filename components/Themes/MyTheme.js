@@ -7,7 +7,8 @@ export const MyTheme ={
         tertiary:'grey',
         buttons:'blue',
         background:'#FDFDFD',
-        text:'black'
+        text:'black',
+        tint:"#000000"
 
     }
 }

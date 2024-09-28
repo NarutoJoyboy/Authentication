@@ -28,7 +28,10 @@ export default function Home() {
   const details = useStore(state => state.details);
   const navigation = useNavigation();
   const [loading, setLoading] = useState(true);
-  const []
+  const [reload, setReload] = useState(false);
+  const [searchQuery, setSearchQuery] = useState('');
+  const [filteredEvents, setFilteredEvents] = useState([]);
+  
   useEffect(() => {
     console.log("It's running");
     Call();
@@ -36,8 +39,24 @@ export default function Home() {
 
     setTimeout(() => {
       setLoading(false);
+      setReload(false);
+      setFilteredEvents(details);
     }, 2000);
-  }, []);
+  }, [reload]);
+
+  const handleSearch = (text) => {
+    setSearchQuery(text);
+    if (text) {
+      const filtered = details.filter(event => 
+        event.name.toLowerCase().includes(text.toLowerCase()) ||
+        event.category.toLowerCase().includes(text.toLowerCase()) ||
+        event.location.toLowerCase().includes(text.toLowerCase())
+      );
+      setFilteredEvents(filtered);
+    } else {
+      setFilteredEvents(details);
+    }
+  };
 
   return (
     <TouchableWithoutFeedback onPress={Keyboard.dismiss}>
@@ -54,20 +73,22 @@ export default function Home() {
               placeholder="Search events, creators, etc"
               placeholderTextColor={colors.text}
               style={[styles.searchInput, {color: colors.text}]}
+              value={searchQuery}
+              onChangeText={handleSearch}
             />
             <TouchableOpacity style={styles.searchButton}>
               <Ionicons name="search" color={colors.text} size={24} />
             </TouchableOpacity>
           </View>
           <Text style={[styles.sectionTitle, {color: colors.text}]}>
-            Upcoming Events
+            {searchQuery ? 'Search Results' : 'Upcoming Events'}
           </Text>
           {loading ? (
             <View style={styles.loadingIndicator}>
               <ActivityIndicator color={'black'} size={50} />
             </View>
-          ) : details !== undefined ? (
-            details.map((data, key) => {
+          ) : filteredEvents && filteredEvents.length ? (
+            filteredEvents.map((data, key) => {
               return (
                 <View key={key}>
                   <EventCard data={data} />
@@ -77,10 +98,21 @@ export default function Home() {
           ) : (
             <View style={styles.loadingIndicator}>
               <Text style={[styles.undefined, {color: colors.text}]}>
-                No Data load
+                {searchQuery ? 'No matching events found' : 'No events available'}
               </Text>
-              <TouchableOpacity>
-                <Text>Reload</Text>
+              <TouchableOpacity
+                style={[
+                  styles.reloadButton,
+                  {backgroundColor: colors.secondary},
+                ]}
+                onPress={() => {
+                  setReload(true);
+                  setLoading(true);
+                  setSearchQuery('');
+                }}>
+                <Text style={{color: colors.background, fontSize: 20}}>
+                  Reload
+                </Text>
               </TouchableOpacity>
             </View>
           )}
@@ -146,9 +178,18 @@ const styles = StyleSheet.create({
   },
   loadingIndicator: {
     marginTop: height / 4,
+    alignSelf: 'center',
   },
   undefined: {
     fontSize: 20,
     fontWeight: 'bold',
+  },
+  reloadButton: {
+    padding: 10,
+    borderRadius: 10,
+    marginTop: 10,
+    alignSelf: 'center',
+    width: width / 3.2,
+    alignItems: 'center',
   },
 });
