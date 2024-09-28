@@ -9,12 +9,12 @@
       "location": "Connaught Place, New Delhi",
       "price": "$20",
       "category": "MUSIC",
-      "imageUrl": "https://example.com/delhi-music-fest.jpg",
+      "imageUrl": "https://imgs.search.brave.com/qImtE6HCX8yxQgEwtULkRk_vTjqYLcMvdyIMRSXn6WI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTEz/Njk3OTMyNi9waG90/by9jb25jZXJ0LWlu/LWNpdHktcGFyay1z/dW1tZXItdGltZS5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/NHF5aDd3M0o0UHlS/TU1XdDUzRlRYLW4z/UHNfUXVnTUFyRXBY/czNlOEhNWT0",
       "description": "A vibrant music festival featuring local and international artists.",
       "organizer": {
         "name": "Delhi Events Co.",
         "info": "Leading event organizers in Delhi",
-        "imageUrl": "https://example.com/organizer1.jpg"
+        "imageUrl": "https://imgs.search.brave.com/qImtE6HCX8yxQgEwtULkRk_vTjqYLcMvdyIMRSXn6WI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTEz/Njk3OTMyNi9waG90/by9jb25jZXJ0LWlu/LWNpdHktcGFyay1z/dW1tZXItdGltZS5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/NHF5aDd3M0o0UHlS/TU1XdDUzRlRYLW4z/UHNfUXVnTUFyRXBY/czNlOEhNWT0"
       }
     },
     {
@@ -26,12 +26,12 @@
       "location": "Bangalore International Exhibition Centre, Bangalore",
       "price": "$50",
       "category": "TECH",
-      "imageUrl": "https://example.com/bangalore-tech-expo.jpg",
+      "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0",
       "description": "Showcasing the latest technology innovations and startups.",
       "organizer": {
         "name": "TechFest Bangalore",
         "info": "Organizers of tech-focused events in Bangalore",
-        "imageUrl": "https://example.com/organizer2.jpg"
+        "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0"
       }
     },
     {
@@ -43,12 +43,12 @@
       "location": "Kala Ghoda, Mumbai",
       "price": "$15",
       "category": "ART",
-      "imageUrl": "https://example.com/mumbai-art-festival.jpg",
+      "imageUrl": "https://imgs.search.brave.com/6EzhXMfNycAS1eoT3xwGJ7gf9rmebfWacW7JwW24ACA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTE2/NjA4NTczMy9waG90/by9idXNpbmVzcy1w/cm9mZXNzaW9uYWxz/LWF0LWxhdW5jaC1l/dmVudC5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9ZWVZcnNM/a1dCSFNRSnNyazVM/WWpBVGxWaThRaWZB/OUhaM21tZWFEdnhz/Zz0",
       "description": "Explore the rich art culture of Mumbai with exhibitions and workshops.",
       "organizer": {
         "name": "Mumbai Art Collective",
         "info": "Promoting arts and culture in Mumbai",
-        "imageUrl": "https://example.com/organizer3.jpg"
+        "imageUrl": "https://imgs.search.brave.com/6EzhXMfNycAS1eoT3xwGJ7gf9rmebfWacW7JwW24ACA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTE2/NjA4NTczMy9waG90/by9idXNpbmVzcy1w/cm9mZXNzaW9uYWxz/LWF0LWxhdW5jaC1l/dmVudC5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9ZWVZcnNM/a1dCSFNRSnNyazVM/WWpBVGxWaThRaWZB/OUhaM21tZWFEdnhz/Zz0"
       }
     },
     {
@@ -60,12 +60,12 @@
       "location": "Chennai Trade Centre, Chennai",
       "price": "$25",
       "category": "FOOD",
-      "imageUrl": "https://example.com/chennai-food-festival.jpg",
+      "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0",
       "description": "A feast of flavors featuring the best of South Indian cuisine.",
       "organizer": {
         "name": "Chennai Gourmet Events",
         "info": "Food event specialists in Chennai",
-        "imageUrl": "https://example.com/organizer4.jpg"
+        "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0"
       }
     },
     {
@@ -77,12 +77,12 @@
       "location": "Hyderabad International Convention Centre, Hyderabad",
       "price": "$10",
       "category": "LITERATURE",
-      "imageUrl": "https://example.com/hyderabad-literary-fest.jpg",
+      "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0",
       "description": "Join renowned authors and poets for a celebration of literature.",
       "organizer": {
         "name": "Hyderabad Literary Society",
         "info": "Promoting literature and reading in Hyderabad",
-        "imageUrl": "https://example.com/organizer5.jpg"
+        "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0"
       }
     },
     {
@@ -94,12 +94,12 @@
       "location": "Pune Exhibition Centre, Pune",
       "price": "$5",
       "category": "CRAFT",
-      "imageUrl": "https://example.com/pune-craft-fair.jpg",
+      "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0",
       "description": "Discover handmade crafts and local artisans.",
       "organizer": {
         "name": "Pune Crafts Association",
         "info": "Supporting local artisans in Pune",
-        "imageUrl": "https://example.com/organizer6.jpg"
+        "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0"
       }
     },
     {
@@ -111,12 +111,12 @@
       "location": "Rajasthan Patrika, Jaipur",
       "price": "$30",
       "category": "FILM",
-      "imageUrl": "https://example.com/jaipur-film-festival.jpg",
+      "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0",
       "description": "Showcasing independent films from around the world.",
       "organizer": {
         "name": "Jaipur Film Society",
         "info": "Promoting cinema in Jaipur",
-        "imageUrl": "https://example.com/organizer7.jpg"
+        "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0"
       }
     },
     {
@@ -128,12 +128,12 @@
       "location": "Anjuna Beach, Goa",
       "price": "$15",
       "category": "MUSIC",
-      "imageUrl": "https://example.com/goa-beach-festival.jpg",
+      "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0",
       "description": "A lively festival celebrating music, dance, and beach culture.",
       "organizer": {
         "name": "Goa Events Co.",
         "info": "Organizers of beach festivals in Goa",
-        "imageUrl": "https://example.com/organizer8.jpg"
+        "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0"
       }
     },
     {
@@ -145,12 +145,12 @@
       "location": "Jawaharlal Nehru Stadium, New Delhi",
       "price": "$40",
       "category": "FASHION",
-      "imageUrl": "https://example.com/delhi-fashion-week.jpg",
+      "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0",
       "description": "Experience the latest trends in Indian fashion.",
       "organizer": {
         "name": "Delhi Fashion Council",
         "info": "Promoting fashion in India",
-        "imageUrl": "https://example.com/organizer9.jpg"
+        "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0"
       }
     },
     {
@@ -162,12 +162,12 @@
       "location": "Marine Drive, Mumbai",
       "price": "$25",
       "category": "SPORTS",
-      "imageUrl": "https://example.com/mumbai-marathon.jpg",
+      "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0",
       "description": "Join thousands of runners in this exciting marathon event.",
       "organizer": {
         "name": "Mumbai Sports Association",
         "info": "Organizers of sporting events in Mumbai",
-        "imageUrl": "https://example.com/organizer10.jpg"
+        "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0"
       }
     },
     {
@@ -179,12 +179,12 @@
       "location": "Central Park, Kolkata",
       "price": "$10",
       "category": "LITERATURE",
-      "imageUrl": "https://example.com/kolkata-book-fair.jpg",
+      "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0",
       "description": "The largest book fair in India featuring local and international authors.",
       "organizer": {
         "name": "Kolkata Book Association",
         "info": "Promoting literature in Kolkata",
-        "imageUrl": "https://example.com/organizer11.jpg"
+        "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0"
       }
     },
     {
@@ -196,12 +196,12 @@
       "location": "Sabarmati Riverfront, Ahmedabad",
       "price": "$20",
       "category": "FOOD",
-      "imageUrl": "https://example.com/ahmedabad-food-festival.jpg",
+      "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0",
       "description": "Explore the culinary delights of Gujarat.",
       "organizer": {
         "name": "Ahmedabad Gourmet Society",
         "info": "Promoting food events in Ahmedabad",
-        "imageUrl": "https://example.com/organizer12.jpg"
+        "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0"
       }
     },
     {
@@ -213,12 +213,12 @@
       "location": "Surat International Exhibition & Convention Centre, Surat",
       "price": "$30",
       "category": "TEXTILES",
-      "imageUrl": "https://example.com/surat-textile-expo.jpg",
+      "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0",
       "description": "Showcasing the best in textile manufacturing.",
       "organizer": {
         "name": "Surat Textile Association",
         "info": "Leading textile industry events in Surat",
-        "imageUrl": "https://example.com/organizer13.jpg"
+        "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0"
       }
     },
     {
@@ -230,12 +230,12 @@
       "location": "Hyderabad Convention Centre, Hyderabad",
       "price": "$25",
       "category": "COMIC",
-      "imageUrl": "https://example.com/hyderabad-comic-con.jpg",
+      "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0",
       "description": "A celebration of comics, cosplay, and pop culture.",
       "organizer": {
         "name": "Hyderabad Comic Society",
         "info": "Promoting pop culture events in Hyderabad",
-        "imageUrl": "https://example.com/organizer14.jpg"
+        "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0"
       }
     },
     {
@@ -247,12 +247,12 @@
       "location": "Panaji, Goa",
       "price": "$15",
       "category": "CARNIVAL",
-      "imageUrl": "https://example.com/goa-carnival.jpg",
+      "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0",
       "description": "Join us for the vibrant and colorful Goa Carnival.",
       "organizer": {
         "name": "Goa Carnival Committee",
         "info": "Organizers of the famous Goa Carnival",
-        "imageUrl": "https://example.com/organizer15.jpg"
+        "imageUrl": "https://imgs.search.brave.com/aYuNwPA1jxaX_ukeXL-o10SeadE8VJCjlQL1xWlnOSQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTU5/NzY4MDIyL3Bob3Rv/L2Nyb3dkLWF0dGVu/ZGluZy1tdXNpYy1m/ZXN0aXZhbC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9QzE3/WkJVUUZSTUw0M0Zv/MVo2UnphYlRLdm5j/bWtvWjhoY1VvRlR4/RmNEaz0"
       }
     }
   ]
